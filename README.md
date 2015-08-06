@@ -9,4 +9,6 @@ Extra python packages that are required for the scripts:
 
 matplotlib (install with $ pip install matplotlib)
 
+scipy (install with $ pip install scipy)
+
 brewer2mpl (install with $ pip install brewer2mpl)
